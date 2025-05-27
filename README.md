@@ -61,6 +61,10 @@ Hi, I'm Haison Urrutia!
     <a href="https://github.com/haison-ai"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></a>
     <a href="https://github.com/haison-ai"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" alt="AWS Badge"/></a>
+    <a href="https://github.com/haison-ai"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
+    <a href="https://github.com/haison-ai"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"></a>
+
+
 </p>
 
 ### 💻 Software and Tools
@@ -91,7 +95,7 @@ Hi, I'm Haison Urrutia!
 ## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ Haison's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
