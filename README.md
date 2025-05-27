@@ -46,12 +46,18 @@ Hi, I'm Haison Urrutia!
 
 <p>
     <a href="https://github.com/haison-ai"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/haison-ai"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"></a>
+
 
 ### 🧰 Frameworks and Libraries
 
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="https://github.com/haison-ai"><img alt="PySpark" src="https://img.shields.io/badge/PySpark-%23E25A1C?logo=apache-spark&logoColor=white"></a>
+    <a href="https://github.com/haison-ai"><img alt="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff"></a>
+
+
 
 </p>
 
@@ -61,8 +67,7 @@ Hi, I'm Haison Urrutia!
     <a href="https://github.com/haison-ai"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></a>
     <a href="https://github.com/haison-ai"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" alt="AWS Badge"/></a>
-    <a href="https://github.com/haison-ai"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
-    <a href="https://github.com/haison-ai"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"></a>
+    
 
 
 </p>
@@ -75,6 +80,8 @@ Hi, I'm Haison Urrutia!
     <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="https://github.com/haison-ai"><img alt="ETL" src="https://img.shields.io/badge/ETL-9370DB?logo=apache-airflow&logoColor=white"></a>
+    <a href="https://github.com/haison-ai"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
+    <a href="https://github.com/haison-ai"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"></a>
 
     
    
