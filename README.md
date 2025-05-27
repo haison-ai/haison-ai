@@ -28,7 +28,7 @@ Hi, I'm Haison Urrutia!
 🌱 Learning about Data Engieering and Machine Learning stuff
 🌟 Main languages: Python, SQL
 🚩 Interested in learn all about Data science stack
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: A new <b>job opportunity</b>.
 </pre>
 <hr>
 
