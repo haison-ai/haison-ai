@@ -142,11 +142,6 @@ Hi, I'm Haison Urrutia!
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
 
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:your-email@example.com" style="color: #58a6ff;">contact me through email</a>.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com" style="color: #58a6ff;">Fiverr</a> or <a href="https://www.linkedin.com/in/your-linkedin" style="color: #58a6ff;">LinkedIn</a> to deploy your machine learning project on web.
 
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
@@ -155,8 +150,6 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com" style="color
 
 **<a href="https://github.com/haison-ai"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
 
     </td>
   </tr>
