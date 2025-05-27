@@ -64,7 +64,7 @@ Hi, I'm Haison Urrutia!
 
 <p>
     <a href="https://github.com/haison-ai"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></a>
-    <a href="https://github.com/haison-ai"><img alt="Postgres" src ="[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)"></a>
+    <a href="https://github.com/haison-ai"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
