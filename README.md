@@ -45,7 +45,7 @@ Hi, I'm Haison Urrutia!
 ### 👨‍💻 Programming Languages
 
 <p>
-    
+    [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
     <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
