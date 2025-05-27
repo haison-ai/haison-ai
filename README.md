@@ -143,19 +143,9 @@ Hi, I'm Haison Urrutia!
     <td width="50%" valign="top" style="padding: 10px;">
 
 
-    </td>
-    <td width="50%" valign="top" style="padding: 10px;">
-
-## It's not perfect, isn't it?
-
-**<a href="https://github.com/haison-ai"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
 
-    </td>
-  </tr>
-</table>
 
-------
 
 [haison-ai](https://github.com/haison-ai)
 
